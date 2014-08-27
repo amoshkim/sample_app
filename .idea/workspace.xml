@@ -788,7 +788,11 @@
       <created>1409113816772</created>
       <updated>1409113816772</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Exclude">
+      <created>1409114417003</created>
+      <updated>1409114417003</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
