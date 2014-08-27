@@ -26,3 +26,5 @@ doc/
 .secret
 *.idea
 .gitignore
+/sample_app/.idea
+
