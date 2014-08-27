@@ -16,7 +16,7 @@
 /tmp
 
 # Ignore other unneeded files.
-database.yml
+
 doc/
 *.swp
 *~
@@ -26,3 +26,5 @@ doc/
 .secret
 *.idea
 .gitignore
+/sample_app/.idea
+
